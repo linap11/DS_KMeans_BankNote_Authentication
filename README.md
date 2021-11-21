@@ -2,7 +2,7 @@
 DataScience Projects
 
 Anaconda Environment Requirements / Packages:
-# Name                    Version   
+Name                    Version   
 ipython                   7.22.0
 jupyter                   1.0.0 
 matplotlib                3.3.4 
